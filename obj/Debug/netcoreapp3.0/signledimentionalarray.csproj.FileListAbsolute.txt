@@ -1,0 +1,11 @@
+C:\csharp\ar\signledimentionalarray\bin\Debug\netcoreapp3.0\signledimentionalarray.exe
+C:\csharp\ar\signledimentionalarray\bin\Debug\netcoreapp3.0\signledimentionalarray.deps.json
+C:\csharp\ar\signledimentionalarray\bin\Debug\netcoreapp3.0\signledimentionalarray.runtimeconfig.json
+C:\csharp\ar\signledimentionalarray\bin\Debug\netcoreapp3.0\signledimentionalarray.runtimeconfig.dev.json
+C:\csharp\ar\signledimentionalarray\bin\Debug\netcoreapp3.0\signledimentionalarray.dll
+C:\csharp\ar\signledimentionalarray\bin\Debug\netcoreapp3.0\signledimentionalarray.pdb
+C:\csharp\ar\signledimentionalarray\obj\Debug\netcoreapp3.0\signledimentionalarray.csprojAssemblyReference.cache
+C:\csharp\ar\signledimentionalarray\obj\Debug\netcoreapp3.0\signledimentionalarray.AssemblyInfoInputs.cache
+C:\csharp\ar\signledimentionalarray\obj\Debug\netcoreapp3.0\signledimentionalarray.AssemblyInfo.cs
+C:\csharp\ar\signledimentionalarray\obj\Debug\netcoreapp3.0\signledimentionalarray.dll
+C:\csharp\ar\signledimentionalarray\obj\Debug\netcoreapp3.0\signledimentionalarray.pdb
